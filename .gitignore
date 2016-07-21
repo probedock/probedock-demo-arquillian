@@ -5,3 +5,4 @@ probedock-demo-itf-test-ejb/src/main/resources/probedock.yml
 probedock-demo-itf-ear/META-INF
 probedock-demo-itf-ear/WEB-INF
 probedock-demo-itf-ear/io
+nb-configuration.xml
